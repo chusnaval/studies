@@ -1,0 +1,2 @@
+# studies
+Computer Science Notes
